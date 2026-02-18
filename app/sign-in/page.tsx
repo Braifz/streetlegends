@@ -29,14 +29,14 @@ export default function SignInPage() {
   });
 
   return (
-    <div className="h-screen w-full flex bg-background">
+    <div className="h-screen w-full flex bg-background ">
       <div className="">
         <Image
           src="/logo.png"
           alt="StreetSpot logo"
           width={700}
           height={700}
-          className="absolute top-20 left-10 z-50 hidden lg:block"
+          className="absolute  top-20 left-10 z-50 hidden lg:block"
         />
 
         <Image
